@@ -1,2 +1,2 @@
-# sandbox1
+# sandbox
 Testområde
